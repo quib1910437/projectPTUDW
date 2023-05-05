@@ -1,0 +1,40 @@
+.dark {
+  background-color: #181818;
+}
+.light {
+  background-color: #fff;
+  nav {
+    ul {
+      li {
+        color: black;
+      }
+    }
+  }
+  .main {
+    form {
+      .todo-text {
+        color: black;
+      }
+      .button {
+        color: black;
+      }
+    }
+    .buttons {
+      ul {
+        li {
+          span {
+            color: black;
+          }
+        }
+      }
+    }
+  }
+
+  .todo-list {
+    ul {
+      li {
+        color: black;
+      }
+    }
+  } 
+}
